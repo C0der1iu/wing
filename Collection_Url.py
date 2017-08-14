@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 # coding : utf8
-# '''
-# https://www.so.com/s?q=hackerwing&pn=0q:
-# start:
-# '''
-#
 import sys
 import requests
 from bs4 import BeautifulSoup
